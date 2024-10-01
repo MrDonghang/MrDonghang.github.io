@@ -11,54 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Transportation, Massachusetts Institute of Technology, 2026(Expected)
+* B.A. in Economics, Peking University, 2024
+* B.E. in Urban Planning, Peking University, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Singapore-MIT Alliance for Research and Technology
+  * Mar 2024 - Present
+  * Research Assistant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* China Academy of Urban Planning & Design 
+  * Sep 2023 - Dec 2023
+  * Urban Planner
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* MIT JTL Urban Mobility Lab
+  * Jun 2023 - Aug 2023
+  * Summer Research Intern
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language: Python, R, Stata
+* Software
+  * General: Office Suites, Adobe Creative Suites
+  * Geographic Analysis: QGIS, ArcGIS
+  * Architecture and Urban Design: AutoCAD, SketchUp, Lumion
+* Language: Chinese(native), English(proficient), French(fundamental)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+You can download my full CV [here]()

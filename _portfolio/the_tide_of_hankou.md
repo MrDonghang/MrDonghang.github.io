@@ -11,4 +11,4 @@ This project is part of the Urban Design Studio at Peking University. We plan to
 and design a neighborhood in Hankou, Wuhan, to promote community building and economic 
 revitalization of the area.
 
-You can download the whole project [here](#).
+<img src='/images/final.png'>

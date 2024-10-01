@@ -12,4 +12,4 @@ This project is part of the Landscape Design Studio at Peking University. In res
 
 <img src='/images/greener_beijing_2.png'>
 
-You can download the whole project [here](#).
+This project was advised by Prof. Zhifang Wang from Peking University.

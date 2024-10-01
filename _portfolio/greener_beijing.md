@@ -1,7 +1,7 @@
 ---
 title: "A Greener Beijing"
 excerpt: "Improvement plan for the transformation of Sanyang Design Capital from the 
-perspective of spatiotemporal integration <br/><img src='images/greener_beijing.png'>"
+perspective of spatiotemporal integration. <br/><img src='images/greener_beijing.png'>"
 collection: portfolio
 ---
 

@@ -38,4 +38,4 @@ Skills
   * Architecture and Urban Design: AutoCAD, SketchUp, Lumion
 * Language: Chinese(native), English(proficient), French(fundamental)
 
-You can download my full CV [here]()
+You can download my full CV [here](mrdonghang.github.io/blob/master/_pages/Donghang_CV.pdf)

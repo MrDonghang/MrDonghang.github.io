@@ -1,10 +1,10 @@
 ---
 title: "The E-bike Dilemma"
-excerpt: "Analysis of E-bike driving behaviors at road intersections based on video surveillance data: a case study in Ningbo <br/><img src='images/e_bike.png'>"
+excerpt: "Analysis of E-bike driving behaviors at road intersections based on video surveillance data: a case study in Ningbo <br/><img src='/images/e_bike.png'>"
 collection: portfolio
 ---
 
-<img src='images/e_bike.png'>
+<img src='/images/e_bike.png'>
 
 The disorderly driving behavior of electric bicycles at urban road intersections has 
 been a concern for law enforcement departments, but there are few studies on the driving behavior 

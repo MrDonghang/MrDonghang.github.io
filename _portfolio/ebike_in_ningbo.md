@@ -16,4 +16,4 @@ intersections and the influence of environmental factors on them.
 This project is my undergraduate research project at Peking University, supported by the President's 
 Fund of Peking University. This project was supervised by Prof. Xu Liyan.
 
-You can download the whole project [here](https://mrdonghang.github.io/_portfolio/E-bike.pdf)
+You can download the whole project [here](https://mrdonghang.github.io/files/E-bike.pdf)

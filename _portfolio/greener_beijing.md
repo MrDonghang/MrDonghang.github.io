@@ -1,14 +1,15 @@
 ---
 title: "A Greener Beijing"
-excerpt: "Improvement plan for the transformation of Sanyang Design Capital from the 
-perspective of spatiotemporal integration. <br/><img src='/images/greener_beijing.png'>"
+excerpt: "Increasing greenspace carbon sink capacity in Beijing. <br/><img src='/images/greener_beijing.png'>"
 collection: portfolio
 ---
 
 <img src='/images/greener_beijing.png'>
 
-This project is part of the Urban Design Studio at Peking University. We plan to renovate 
-and design a neighborhood in Hankou, Wuhan, to promote community building and economic 
-revitalization of the area.
+This project is part of the Landscape Design Studio at Peking University. In response to the challenges of climate change in cities, we use a variety of geospatial analysis methods and landscape design methods to enhance the carbon sink planning of green space in Beijing.
+
+<img src='/images/greener_beijing_1.png'>
+
+<img src='/images/greener_beijing_2.png'>
 
 You can download the whole project [here](#).

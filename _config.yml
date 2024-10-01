@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Donghang Li / Personal Homepage"
+title                    : "Donghang Li"
 title_separator          : "-"
 name                     : &name "Donghang Li"
 description              : &description "Graduate student at MIT"
@@ -22,7 +22,7 @@ repository               : "MrDonghang/MrDonghang.github.io"
 author:
   # Biographic information
   avatar           : "donghang.png"
-  name             : "Donghang"
+  name             : "Donghang Li"
   pronouns         : # example: "she/her"  
   bio              : "Graduate student at MIT"
   location         : "United States"

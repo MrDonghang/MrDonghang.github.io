@@ -17,16 +17,13 @@ Education
 
 Work experience
 ======
-* Singapore-MIT Alliance for Research and Technology
-  * Mar 2024 - Present
-  * Research Assistant
+* Singapore-MIT Alliance for Research and Technology (Mar 2024 - Present)
+  * Research Assistant  
 
-* China Academy of Urban Planning & Design 
-  * Sep 2023 - Dec 2023
+* China Academy of Urban Planning & Design (Sep 2023 - Dec 2023)
   * Urban Planner
 
-* MIT JTL Urban Mobility Lab
-  * Jun 2023 - Aug 2023
+* MIT JTL Urban Mobility Lab (Jun 2023 - Aug 2023)
   * Summer Research Intern
   
 Skills
@@ -39,3 +36,4 @@ Skills
 * Language: Chinese(native), English(proficient), French(fundamental)
 
 You can download my full CV [here](https://mrdonghang.github.io/_pages/Donghang_CV.pdf).
+======

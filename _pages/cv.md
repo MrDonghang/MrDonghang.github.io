@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* M.S. in Transportation, Massachusetts Institute of Technology, 2026(Expected)
+* M.S. in Transportation, Massachusetts Institute of Technology, 2026 (Expected)
 * B.A. in Economics, Peking University, 2024
 * B.E. in Urban Planning, Peking University, 2024
 

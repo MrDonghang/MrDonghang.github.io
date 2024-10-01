@@ -14,4 +14,4 @@ environment and night travel behavior. The project earned third place in the Sec
 and Rural Planning Graduation Design Competition organized by China’s Ministry of Natural 
 Resources.
 
-You can download the whole project [here](https://mrdonghang.github.io/files/night_mobility.pdf)
+You can download the whole project [here](https://mrdonghang.github.io/files/night_mobility.pdf).

@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am first-year graduate student at MIT, pursuing the Master of Science in Transportation (MST) degree at [JTL](https://mobility.mit.edu/). Before joining MIT, I obtained dual Bachelor's degrees in Urban Planning and Economics from Peking University. My research interests lie at the intersection of behavioral science, economics, and transportation. I try to combine machine learning and econometrics methods to address urban transportation issues, such as congestion and pollution. I am currently working as a research assistant at the Singapore-MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/research/m3s/about-m3s)), focusing on the environmental, social, and economic impacts of artificial intelligence.
+I am first-year graduate student at MIT, pursuing the Master of Science in Transportation (MST) degree at [JTL Urban Mobility Lab](https://mobility.mit.edu/). Before joining MIT, I obtained dual Bachelor's degrees in Urban Planning and Economics from Peking University. My research interests lie at the intersection of behavioral science, economics, and transportation. I try to combine machine learning and econometrics methods to address urban transportation issues, such as congestion and pollution. I am currently working as a research assistant at the Singapore-MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/research/m3s/about-m3s)), focusing on the environmental, social, and economic impacts of artificial intelligence.
 
 A data-driven personal website
 ======

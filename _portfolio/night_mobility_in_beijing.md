@@ -1,11 +1,11 @@
 ---
 title: "Night Mobility in Beijing"
 excerpt: "A spatio-temporal analysis of residents' nighttime travel 
-activity based on mobile signaling data. <br/><img src='images/e_bike.png.png'>"
+activity based on mobile signaling data.  <br/><img src='/images/beijing_night.png'>"
 collection: portfolio
 ---
 
-<img src='images/e_bike.png.png'>
+<img src='/images/beijing_night.png'>
 
 This project was my undergraduate capstone design at Peking University. I utilized 
 various sources of geospatial big data to analyze the spatial and temporal patterns 

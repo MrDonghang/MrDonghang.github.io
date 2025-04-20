@@ -34,5 +34,3 @@ Skills
   * Geographic Analysis: QGIS, ArcGIS
   * Architecture and Urban Design: AutoCAD, SketchUp, Lumion
 * Language: Chinese(native), English(proficient), French(fundamental)
-
-## You can download my full CV [here](https://mrdonghang.github.io/_pages/Donghang_CV.pdf).

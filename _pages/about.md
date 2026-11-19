@@ -41,9 +41,17 @@ LinkedIn: [**MIT JTL-Transit Lab**](https://www.linkedin.com/feed/update/urn:li:
 </div>
 </div>
 
-- [Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning](https://doi.org/10.1177/23998083251342406)  
-  S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
-  *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026** **(SSCI, IF: 3.1)**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EPB 2026</div><img src='images/papers/homelessness.jpg' alt="Uncovering Nonlinear Urban Factors" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning](https://doi.org/10.1177/23998083251342406)
+
+S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun
+
+*Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026** **(SSCI, IF: 3.1)**
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2025</div><img src='images/papers/heat_stress.jpg' alt="Hyperlocal Heat Stress" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,25 +105,25 @@ B. Guo, **D. Li**, Z. Hong, K. Sun, H. Huang, A. Prakash, S. Wang
 </div>
 </div>
 
-- [Language Models Meet Urban Mobility: A Data-Centric Review](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176703984.41856875/v1)  
-  B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao  
-  *Authorea Preprints*, **2025**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TechRxiv 2025</div><img src='images/papers/language_models.jpg' alt="Language Models Meet Urban Mobility" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language Models Meet Urban Mobility: A Data-Centric Review](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176703984.41856875/v1)
+
+B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao
+
+*Authorea Preprints*, **2025**
+
+</div>
+</div>
 
 - Consumption Complexity as a Driver of Urban Economic Development  
   Y. Zheng, Y. Liang, **D. Li**, D. Zhuang, S. Wang, J. Zhao  
   Under review at *Applied Geography*, **2025**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/e_bike.jpg' alt="Vehicles, Pedestrians" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Vehicles, Pedestrians, and E-bikes: A Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety](https://arxiv.org/abs/2411.02183)
-
-G. Zhang, Y. Shu, K. Liu, Y. Wang, **D. Li**, L. Xu
-
-*arXiv preprint arXiv:2411.02183*, **2024**
-
-</div>
-</div>
+- [Vehicles, Pedestrians, and E-bikes: A Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety](https://arxiv.org/abs/2411.02183)  
+  G. Zhang, Y. Shu, K. Liu, Y. Wang, **D. Li**, L. Xu  
+  *arXiv preprint arXiv:2411.02183*, **2024**
 
 # 💬 Talks
 - *2026*, Artificial Intelligence, Human Capital, and Firm Performance: Evidence from Global Workforce Dataset. AAG Annual Meeting, San Francisco.

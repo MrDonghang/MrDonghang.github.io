@@ -29,15 +29,15 @@ My research interests include artificial intelligence, computational social scie
 
 - Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work  
   **D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao  
-  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026**
+  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**
 
 - Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning  
   S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
-  *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026**
+  *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026** **(SSCI, IF: 3.1)**
 
 - Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI  
   S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu  
-  *Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025**
+  *Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025** **(Top, SCI, JCR Q1, IF: 8.9)**
 
 ## Working Papers and Preprints
 
@@ -53,7 +53,7 @@ My research interests include artificial intelligence, computational social scie
   B. Guo, **D. Li**, Z. Hong, K. Sun, H. Huang, A. Prakash, S. Wang  
   *arXiv preprint arXiv:2606.01745*, **2026**
 
-- Language Models Meet Urban Mobility: A Data-Centric Review  
+- [Language Models Meet Urban Mobility: A Data-Centric Review](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176703984.41856875/v1)  
   B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao  
   *Authorea Preprints*, **2025**
 

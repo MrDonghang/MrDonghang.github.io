@@ -53,7 +53,7 @@ S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2025</div><img src='images/papers/heat_stress.jpg' alt="Hyperlocal Heat Stress" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2025</div><img src='images/papers/heat_stress_utci.jpg' alt="Hyperlocal Heat Stress" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI](https://doi.org/10.1016/j.compenvurbsys.2025.102341)
@@ -81,7 +81,7 @@ LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/upd
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/congestion_pricing.jpg' alt="Public Transit Gains" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/congestion_pricing_framework.jpg' alt="Public Transit Gains" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Public Transit Gains and Spatially Uneven Travel Demand Changes after NYC Congestion Pricing](https://arxiv.org/abs/2606.17530)

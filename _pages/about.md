@@ -10,18 +10,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a graduate student at [MIT](https://www.mit.edu/), pursuing a Master of Science in Transportation and a Master of Science in Electrical Engineering and Computer Science. I work at the [JTL Urban Mobility Lab](https://mobility.mit.edu/) and am very fortunate to be advised by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I am also a research assistant at the Singapore-MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/research/m3s/about-m3s)), where I study how artificial intelligence shapes human capital development and urban economic growth.
+I am a graduate student at [MIT](https://www.mit.edu/), pursuing a Master of Science in Electrical Engineering and Computer Science (EECS) and a Master of Science in Transportation. I work at the [JTL Urban Mobility Lab](https://mobility.mit.edu/) and am very fortunate to be advised by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I am also a research assistant at the Singapore-MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/research/m3s/about-m3s)), where I study how artificial intelligence shapes human capital development and urban economic growth.
 
 Before joining MIT, I obtained a Bachelor of Engineering and a Bachelor of Economics from [Peking University](https://english.pku.edu.cn/), where I was advised by [Prof. Liyan Xu](https://www.cala.pku.edu.cn/info/1025/1275.htm) at the [College of Architecture and Landscape](https://www.cala.pku.edu.cn/index.htm).
 
-My research interests include artificial intelligence, computational social science, human-AI interaction, urban computing, spatial data science, and urban and transportation economics. I combine machine learning, causal inference, and large-scale data to study AI talent and labor markets, urban mobility, and the effects of urban policy. You can find my papers on <a href='https://scholar.google.com/citations?hl=en&user=c3FtrroAAAAJ'>Google Scholar</a>.
+My research interests include artificial intelligence, human-AI interaction, urban computing, and urban and transportation economics. I combine machine learning, causal inference, and large-scale data to study AI talent and labor markets, urban mobility, and the effects of urban policy. You can find my papers on <a href='https://scholar.google.com/citations?hl=en&user=c3FtrroAAAAJ'>Google Scholar</a>.
 
 
 # 🔥 News
 - *2026.10*: &nbsp;🎉 New preprint: [Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264).
 - *2026.06*: &nbsp;🎉 New preprints on [NYC congestion pricing](https://arxiv.org/abs/2606.17530) and on [foundation models and urban mobility](https://arxiv.org/abs/2606.01745).
-- *2026*: &nbsp;🎉 Our paper on commute time and remote work is published in *Transportation Research Part D*.
-- *2026*: &nbsp;Presenting at the AAG Annual Meeting in San Francisco.
+- *2025.11*: &nbsp;🎉 Our paper on commute time and remote work is published in *Transportation Research Part D*.
 
 # 📝 Publications 
 
@@ -75,6 +74,7 @@ S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu
 **D. Li**, Y. Zheng, A. Prakash, S. Wang, J. Zhao
 
 *arXiv preprint arXiv:2610.08264*, **2026**
+With submission to *Nature Communications*
 
 LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/update/urn:li:share:7513561804262928385/)
 
@@ -89,6 +89,7 @@ LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/upd
 **D. Li**, D. Zhuang, Y. Li, C. Shen, N. Cao, Y. Zheng, ..., J. Zhao
 
 *arXiv preprint arXiv:2606.17530*, **2026**
+Under review at *Nature Communications*
 
 </div>
 </div>
@@ -142,9 +143,9 @@ B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao
 - Integrating mobility traces, public transit records, and socioeconomic datasets to study how AI can improve urban measurement, policy evaluation, and decision-making.
 
 # 🎖 Honors and Awards
-- *2024.09* Third Prize, National Undergraduate Urban Planning Thesis Competition
+- *2024.09* Third Prize, National Undergraduate Urban Planning Thesis Competition, Ministry of Natural Resources of the PRC
 - *2023.12* China Economic Research Fellowship, Peking University
-- *2023.12* China National Scholarship, Ministry of Education of the PRC
+- *2023.12* China National Scholarship, Ministry of Education of the PRC **(top 0.2%)**
 - *2023.12* Merit Student Pacesetter of Peking University
 - *2022.12* Award for Academic Excellence, Peking University
 - *2022.11* Outstanding Volunteer, Peking University Admissions Office
@@ -154,8 +155,8 @@ B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao
 - *2020.12* Merit Student of Peking University
 
 # 📖 Education
-- *2024.08 - now*, Master of Science in Transportation and Master of Science in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA. Advisor: Prof. Jinhua Zhao.
+- *2024.09 - now*, Master of Science in Electrical Engineering and Computer Science and Master of Science in Transportation, Massachusetts Institute of Technology, Cambridge, MA. Advisor: Prof. Jinhua Zhao.
 - *2019.08 - 2024.07*, Bachelor of Engineering and Bachelor of Economics, Peking University, Beijing, China. Thesis supervisor: Prof. Liyan Xu.
 
 # 💻 Experience
-- *2023.08 - 2023.11*, Urban Planner Intern, Institute of Urban Regeneration, China Academy of Urban Planning & Design (CAUPD).
+- *2023.08 - 2023.12*, Urban Planner Intern, Institute of Urban Regeneration, China Academy of Urban Planning & Design (CAUPD).

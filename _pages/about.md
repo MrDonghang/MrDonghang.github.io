@@ -27,33 +27,75 @@ My research interests include artificial intelligence, computational social scie
 
 ## Journal Articles
 
-- [Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work](https://doi.org/10.1016/j.trd.2025.105153)  
-  **D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao  
-  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**  
-  LinkedIn: [**MIT JTL-Transit Lab**](https://www.linkedin.com/feed/update/urn:li:share:7434634333497384960/) \| [**Urban AI Lab**](https://www.linkedin.com/posts/urbanai-transportationresearch-remotework-share-7433165117707636737-VM7k/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TR-D 2026</div><img src='images/papers/remote_work.jpg' alt="Quantifying the Nonlinear" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work](https://doi.org/10.1016/j.trd.2025.105153)
+
+**D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao
+
+*Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**
+
+LinkedIn: [**MIT JTL-Transit Lab**](https://www.linkedin.com/feed/update/urn:li:share:7434634333497384960/) \| [**Urban AI Lab**](https://www.linkedin.com/posts/urbanai-transportationresearch-remotework-share-7433165117707636737-VM7k/)
+
+</div>
+</div>
 
 - [Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning](https://doi.org/10.1177/23998083251342406)  
   S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
   *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026** **(SSCI, IF: 3.1)**
 
-- [Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI](https://doi.org/10.1016/j.compenvurbsys.2025.102341)  
-  S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu  
-  *Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025** **(Top, SCI, JCR Q1, IF: 8.9)**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CEUS 2025</div><img src='images/papers/heat_stress.jpg' alt="Hyperlocal Heat Stress" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI](https://doi.org/10.1016/j.compenvurbsys.2025.102341)
+
+S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu
+
+*Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025** **(Top, SCI, JCR Q1, IF: 8.9)**
+
+</div>
+</div>
 
 ## Working Papers and Preprints
 
-- [Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264)  
-  **D. Li**, Y. Zheng, A. Prakash, S. Wang, J. Zhao  
-  *arXiv preprint arXiv:2610.08264*, **2026**  
-  LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/update/urn:li:share:7513561804262928385/)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/ai_talent_flow.jpg' alt="Understanding Interfirm" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- [Public Transit Gains and Spatially Uneven Travel Demand Changes after NYC Congestion Pricing](https://arxiv.org/abs/2606.17530)  
-  **D. Li**, D. Zhuang, Y. Li, C. Shen, N. Cao, Y. Zheng, ..., J. Zhao  
-  *arXiv preprint arXiv:2606.17530*, **2026**
+[Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264)
 
-- [Enhancing the Socioeconomic Understanding of Foundation Models with Urban Mobility](https://arxiv.org/abs/2606.01745)  
-  B. Guo, **D. Li**, Z. Hong, K. Sun, H. Huang, A. Prakash, S. Wang  
-  *arXiv preprint arXiv:2606.01745*, **2026**
+**D. Li**, Y. Zheng, A. Prakash, S. Wang, J. Zhao
+
+*arXiv preprint arXiv:2610.08264*, **2026**
+
+LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/update/urn:li:share:7513561804262928385/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/congestion_pricing.jpg' alt="Public Transit Gains" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Public Transit Gains and Spatially Uneven Travel Demand Changes after NYC Congestion Pricing](https://arxiv.org/abs/2606.17530)
+
+**D. Li**, D. Zhuang, Y. Li, C. Shen, N. Cao, Y. Zheng, ..., J. Zhao
+
+*arXiv preprint arXiv:2606.17530*, **2026**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/papers/mobfusion.jpg' alt="Enhancing the Socioeconomic" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing the Socioeconomic Understanding of Foundation Models with Urban Mobility](https://arxiv.org/abs/2606.01745)
+
+B. Guo, **D. Li**, Z. Hong, K. Sun, H. Huang, A. Prakash, S. Wang
+
+*arXiv preprint arXiv:2606.01745*, **2026**
+
+</div>
+</div>
 
 - [Language Models Meet Urban Mobility: A Data-Centric Review](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176703984.41856875/v1)  
   B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao  
@@ -63,9 +105,17 @@ My research interests include artificial intelligence, computational social scie
   Y. Zheng, Y. Liang, **D. Li**, D. Zhuang, S. Wang, J. Zhao  
   Under review at *Applied Geography*, **2025**
 
-- [Vehicles, Pedestrians, and E-bikes: A Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety](https://arxiv.org/abs/2411.02183)  
-  G. Zhang, Y. Shu, K. Liu, Y. Wang, **D. Li**, L. Xu  
-  *arXiv preprint arXiv:2411.02183*, **2024**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/papers/e_bike.jpg' alt="Vehicles, Pedestrians" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Vehicles, Pedestrians, and E-bikes: A Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety](https://arxiv.org/abs/2411.02183)
+
+G. Zhang, Y. Shu, K. Liu, Y. Wang, **D. Li**, L. Xu
+
+*arXiv preprint arXiv:2411.02183*, **2024**
+
+</div>
+</div>
 
 # 💬 Talks
 - *2026*, Artificial Intelligence, Human Capital, and Firm Performance: Evidence from Global Workforce Dataset. AAG Annual Meeting, San Francisco.

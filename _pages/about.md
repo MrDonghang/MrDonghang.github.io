@@ -27,16 +27,16 @@ My research interests include artificial intelligence, computational social scie
 
 ## Journal Articles
 
-- Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work  
+- [Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work](https://doi.org/10.1016/j.trd.2025.105153)  
   **D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao  
   *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**  
   LinkedIn: [**MIT JTL-Transit Lab**](https://www.linkedin.com/feed/update/urn:li:share:7434634333497384960/) \| [**Urban AI Lab**](https://www.linkedin.com/posts/urbanai-transportationresearch-remotework-share-7433165117707636737-VM7k/)
 
-- Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning  
+- [Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning](https://doi.org/10.1177/23998083251342406)  
   S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
   *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026** **(SSCI, IF: 3.1)**
 
-- Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI  
+- [Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI](https://doi.org/10.1016/j.compenvurbsys.2025.102341)  
   S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu  
   *Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025** **(Top, SCI, JCR Q1, IF: 8.9)**
 

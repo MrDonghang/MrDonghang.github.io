@@ -8,51 +8,94 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am a graduate student at [MIT](https://www.mit.edu/), pursuing a Master of Science in Transportation and a Master of Science in Electrical Engineering and Computer Science. I work at the [JTL Urban Mobility Lab](https://mobility.mit.edu/) and am very fortunate to be advised by [Prof. Jinhua Zhao](https://dusp.mit.edu/people/jinhua-zhao). I am also a research assistant at the Singapore-MIT Alliance for Research and Technology ([SMART](https://smart.mit.edu/research/m3s/about-m3s)), where I study how artificial intelligence shapes human capital development and urban economic growth.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before joining MIT, I obtained a Bachelor of Engineering and a Bachelor of Economics from [Peking University](https://english.pku.edu.cn/), where I was advised by [Prof. Liyan Xu](https://www.cala.pku.edu.cn/info/1025/1275.htm) at the [College of Architecture and Landscape](https://www.cala.pku.edu.cn/index.htm).
+
+My research interests include artificial intelligence, computational social science, human-AI interaction, urban computing, spatial data science, and urban and transportation economics. I combine machine learning, causal inference, and large-scale data to study AI talent and labor markets, urban mobility, and the effects of urban policy. You can find my papers on <a href='https://scholar.google.com/citations?hl=en&user=c3FtrroAAAAJ'>Google Scholar</a>.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.10*: &nbsp;🎉 New preprint: [Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264).
+- *2026.06*: &nbsp;🎉 New preprints on [NYC congestion pricing](https://arxiv.org/abs/2606.17530) and on [foundation models and urban mobility](https://arxiv.org/abs/2606.01745).
+- *2026*: &nbsp;🎉 Our paper on commute time and remote work is published in *Transportation Research Part D*.
+- *2026*: &nbsp;Presenting at the AAG Annual Meeting in San Francisco.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## Journal Articles
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work  
+  **D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao  
+  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning  
+  S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
+  *Environment and Planning B: Urban Analytics and City Science*, Vol. 53, Issue 1, pp. 198–227, **2026**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Hyperlocal Heat Stress around Bus Stops in Philadelphia: Insights from Spatio-temporal Microclimate Modeling and Explainable AI  
+  S. Yi, X. Li, **D. Li**, X. Dong, R. Wang, Q. Xu  
+  *Computers, Environment and Urban Systems*, Vol. 122, 102341, **2025**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Working Papers and Preprints
+
+- [Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264)  
+  **D. Li**, Y. Zheng, A. Prakash, S. Wang, J. Zhao  
+  *arXiv preprint arXiv:2610.08264*, **2026**
+
+- [Public Transit Gains and Spatially Uneven Travel Demand Changes after NYC Congestion Pricing](https://arxiv.org/abs/2606.17530)  
+  **D. Li**, D. Zhuang, Y. Li, C. Shen, N. Cao, Y. Zheng, ..., J. Zhao  
+  *arXiv preprint arXiv:2606.17530*, **2026**
+
+- [Enhancing the Socioeconomic Understanding of Foundation Models with Urban Mobility](https://arxiv.org/abs/2606.01745)  
+  B. Guo, **D. Li**, Z. Hong, K. Sun, H. Huang, A. Prakash, S. Wang  
+  *arXiv preprint arXiv:2606.01745*, **2026**
+
+- Language Models Meet Urban Mobility: A Data-Centric Review  
+  B. Guo, Z. Hong, L. Cao, **D. Li**, J. Li, C. Rong, ..., J. Zhao  
+  *Authorea Preprints*, **2025**
+
+- Consumption Complexity as a Driver of Urban Economic Development  
+  Y. Zheng, Y. Liang, **D. Li**, D. Zhuang, S. Wang, J. Zhao  
+  Under review at *Applied Geography*, **2025**
+
+- [Vehicles, Pedestrians, and E-bikes: A Three-party Game at Right-turn-on-red Crossroads Revealing the Dual and Irrational Role of E-bikes that Risks Traffic Safety](https://arxiv.org/abs/2411.02183)  
+  G. Zhang, Y. Shu, K. Liu, Y. Wang, **D. Li**, L. Xu  
+  *arXiv preprint arXiv:2411.02183*, **2024**
+
+# 💬 Talks
+- *2026*, Artificial Intelligence, Human Capital, and Firm Performance: Evidence from Global Workforce Dataset. AAG Annual Meeting, San Francisco.
+- *2024*, Uncovering the Causal Impact of Commute Time on Remote Work Preferences. ACSP 64th Annual Conference, Seattle.
+
+# 🔬 Research Projects
+
+**AI for Human Capital Development**, SMART Center, MIT (PI: Prof. Jinhua Zhao), *2024.09 - now*
+- Constructing a global AI labor-flow dataset from large-scale employment records to track workforce mobility across firms, industries, and countries.
+- Building firm-level AI knowledge networks from employee transitions and computing network metrics (degree, PageRank, betweenness, eigenvector centrality) to quantify AI talent spillovers.
+- Linking AI labor-flow networks with firm financial data to examine how AI human capital and network position affect productivity, innovation, revenue growth, and firm valuation.
+
+**AI for Urban Science**, SMART Center, MIT (PI: Prof. Jinhua Zhao), *2024.09 - now*
+- Applying foundation models and large-scale urban mobility data to understand socioeconomic activity, travel demand, and spatial inequality in cities.
+- Developing counterfactual modeling frameworks to evaluate urban policies, including the impacts of congestion pricing on public transit ridership and spatially uneven travel demand.
+- Integrating mobility traces, public transit records, and socioeconomic datasets to study how AI can improve urban measurement, policy evaluation, and decision-making.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09* Third Prize, National Undergraduate Urban Planning Thesis Competition
+- *2023.12* China Economic Research Fellowship, Peking University
+- *2023.12* China National Scholarship, Ministry of Education of the PRC
+- *2023.12* Merit Student Pacesetter of Peking University
+- *2022.12* Award for Academic Excellence, Peking University
+- *2022.11* Outstanding Volunteer, Peking University Admissions Office
+- *2021.12* Third Prize of Peking University Scholarship
+- *2021.12* Award for Scientific Research, Peking University
+- *2020.12* Third Prize of Peking University Scholarship
+- *2020.12* Merit Student of Peking University
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *2024.08 - now*, Master of Science in Transportation and Master of Science in Electrical Engineering and Computer Science, Massachusetts Institute of Technology, Cambridge, MA. Advisor: Prof. Jinhua Zhao.
+- *2019.08 - 2024.07*, Bachelor of Engineering and Bachelor of Economics, Peking University, Beijing, China. Thesis supervisor: Prof. Liyan Xu.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Experience
+- *2023.08 - 2023.11*, Urban Planner Intern, Institute of Urban Regeneration, China Academy of Urban Planning & Design (CAUPD).

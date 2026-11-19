@@ -29,7 +29,8 @@ My research interests include artificial intelligence, computational social scie
 
 - Quantifying the Nonlinear Causal Impact of Commute Time on US Remote Work  
   **D. Li**, Y. Zheng, S. Wang, X. Guo, J. Zhao  
-  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**
+  *Transportation Research Part D: Transport and Environment*, Vol. 151, 105153, **2026** **(Top, SCI, JCR Q1, IF: 8.7)**  
+  LinkedIn: [**MIT JTL-Transit Lab**](https://www.linkedin.com/feed/update/urn:li:share:7434634333497384960/) \| [**Urban AI Lab**](https://www.linkedin.com/posts/urbanai-transportationresearch-remotework-share-7433165117707636737-VM7k/)
 
 - Uncovering Nonlinear Urban Factors of Homelessness: Evidence from New York City using Interpretable Machine Learning  
   S. Yi, W. Tu, T. Zhao, X. Li, Y. Zhang, **D. Li**, ..., Y. Sun  
@@ -43,7 +44,8 @@ My research interests include artificial intelligence, computational social scie
 
 - [Understanding Interfirm AI Talent Flow Networks through Online Professional Profiles](https://arxiv.org/abs/2610.08264)  
   **D. Li**, Y. Zheng, A. Prakash, S. Wang, J. Zhao  
-  *arXiv preprint arXiv:2610.08264*, **2026**
+  *arXiv preprint arXiv:2610.08264*, **2026**  
+  LinkedIn: [**Talent Intelligence Collective**](https://www.linkedin.com/feed/update/urn:li:share:7513561804262928385/)
 
 - [Public Transit Gains and Spatially Uneven Travel Demand Changes after NYC Congestion Pricing](https://arxiv.org/abs/2606.17530)  
   **D. Li**, D. Zhuang, Y. Li, C. Shen, N. Cao, Y. Zheng, ..., J. Zhao  
